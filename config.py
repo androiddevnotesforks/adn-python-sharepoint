@@ -21,3 +21,9 @@ SHAREPOINT_PASSWORD = os.getenv('SHAREPOINT_PASSWORD')
 
 # CSV file path
 CSV_FILE_PATH = os.getenv('CSV_FILE_PATH')
+
+# SharePoint client ID
+SHAREPOINT_CLIENT_ID = os.getenv('SHAREPOINT_CLIENT_ID')
+
+# SharePoint client secret
+SHAREPOINT_CLIENT_SECRET = os.getenv('SHAREPOINT_CLIENT_SECRET')

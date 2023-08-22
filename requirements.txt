@@ -3,3 +3,4 @@ sharepoint==2.1.0
 pandas==1.2.4
 requests==2.25.1
 python-dotenv==0.17.1
+Office365-REST-Python-Client==2.3.6
